@@ -1,0 +1,10 @@
+.img {
+    width: 10em;
+    height: 6em;
+}
+
+.containerVideo {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}

@@ -1,0 +1,36 @@
+.navbar {
+    font-family: 'Emilys Candy', cursive;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 50px;
+    color: limegreen;
+    padding-top: 15px;
+    width: 250px;
+    position: absolute;
+    margin-left: 50px;
+}
+.container {
+    background-color: lightgoldenrodyellow;
+}
+.ul {
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+.li {
+    margin: 20px 20px;
+    display: inline-block;
+    width: auto;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #5F5F5F;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: 'Emilys Candy', cursive;
+    text-transform: uppercase;
+}
+.li:hover {
+    color: rgb(120, 226, 33);
+}
