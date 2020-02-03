@@ -1,0 +1,9 @@
+.background {
+    background-image: url('https://cdn-s-www.leprogres.fr/images/184AF916-9EB5-4499-BEE9-0FCE7A0FF23F/NW_raw/c-est-la-troisieme-annee-que-le-cirque-arlette-gruss-plante-son-chapiteau-au-pied-du-groupama-stadium-tout-autour-c-est-un-petit-village-ephemere-qui-a-pris-vie-pres-de-130-personnes-de-14-nationalites-l-habiteront-jusqu-au-13-octobre-photo-dr-1570479150.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Emilys Candy', cursive;
+    font-size: large;
+    color: wheat;
+}

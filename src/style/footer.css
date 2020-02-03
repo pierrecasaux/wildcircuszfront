@@ -1,0 +1,13 @@
+.footer-container {
+    background-color: lightgoldenrodyellow;
+    color: grey;
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-evenly;
+};
+
+.footer {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,10 @@
+.bck {
+    background-image: url('https://www.familiscope.fr/uploads/dossiers/3000/__activites-manuelles-cirque-pano.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Emilys Candy', cursive;
+    font-size: large;
+    font-weight: bolder;
+    color: grey;
+}

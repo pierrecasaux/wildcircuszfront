@@ -14,9 +14,6 @@ function Navbar() {
                     <Link to="/Instructions">
                         <li className="li">How to play</li>
                     </Link>
-                    <Link to="/Game">
-                        <li className="li">The game</li>
-                    </Link>
                     <Link to="/Videos">
                         <li className="li">Learn and earn!</li>
                     </Link>
